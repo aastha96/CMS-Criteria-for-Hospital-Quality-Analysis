@@ -4,17 +4,11 @@ CMS Hospital Quality rating includes five criteria:
 **Mortality** 
 
 Death rate for heart attack patients
-
 Death rate for coronary artery bypass graft (CABG) surgery patients	
-
 Death rate for chronic obstructive pulmonary disease (COPD) patients
-
 Death rate for heart failure patients
-
 Death rate for pneumonia patients	
-
 Death rate for stroke patients	
-
 Deaths among patients with serious treatable complications after surgery
 
 **Safety**
